@@ -27,10 +27,6 @@
           <v-icon>edit</v-icon>
         </div>
       </div>
-      <div class="buttons">
-        <v-btn class="arrows" outlined color="indigo"><v-icon>navigate_before</v-icon></v-btn>
-        <v-btn class="arrows right" outlined color="indigo"><v-icon>navigate_next</v-icon></v-btn>
-      </div>
       <div class="standarts">
         <h3>Ваша дневная норма калорий 2402</h3>
         <h3>Ваш оптимальный вес 63-77 кг</h3>
